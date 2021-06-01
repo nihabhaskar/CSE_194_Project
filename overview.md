@@ -1,4 +1,4 @@
-# CSE 194: Project Overvieqw
+# CSE 194: Project Overview
 
 ## Summary
 
@@ -16,9 +16,9 @@ In a future iteration of this project, ideally, we would collect gender identity
 
 ## Original Plan and Milestone
 
-[Original Plan](https://drive.google.com/file/d/1illWD07kWZ3TkCIzmEYcEex1a5eZNIrY/view?usp=sharing)
+[Original Plan](https://docs.google.com/document/d/199sraVLVGQED3X63ncjKnkAraU9IfO957EEqWvzGknI/edit?usp=sharing)
 
-[Project Milestone](https://drive.google.com/file/d/1Kz6uAXOkpHkXag9X44KoMAo8Cuns5YMD/view?usp=sharing)
+[Project Milestone](https://docs.google.com/document/d/1E1RQ5lF_aNv9NSGc7sfw6oKnv0x3qOOWOtmadVnnluY/edit?usp=sharing)
 
 ## Supporting Documents and Links
 
