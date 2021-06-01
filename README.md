@@ -1,4 +1,5 @@
 # CSE 194 Project
+## Bias on Women Professors vs. Men Professors Based on Student Expectations
 
 We researched the differences between what students expect in grades from professors who identify as a man versus professors who identify as a woman. Using information from CAPES at UC San Diego, we collected data on student average grade expected versus average grade received versus whether the student would recommend the professor across 3 departments. This research project will either identify any evidence that students have biases (whether implicit or explicit) against women professors in their expectations of grades or that there is no difference between the expectations of students for men and women professors. Ultimately, we would like to evaluate whether there are possibly more biases against women professors teaching in fields where they are historically underrepresented.
 
